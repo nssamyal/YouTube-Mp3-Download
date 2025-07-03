@@ -1,0 +1,7 @@
+ **Create `songs.txt`** in the same folder as `main.py`:
+   
+   Let Me Love You
+   Peaches Justin Bieber
+   Shape of You
+
+
